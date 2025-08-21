@@ -1,2 +1,2 @@
 # MiPractica302310230
-practica degithub
+se agregó directamente desde GitHub
