@@ -1,2 +1,2 @@
 # MiPractica302310230
-se agregó directamente desde GitHub
+se agregó cambios al readme y actualizo informacion
